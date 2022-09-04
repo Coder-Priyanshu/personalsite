@@ -1,0 +1,166 @@
+body {
+    background-color: black;
+}
+
+p {
+    color: rgb(192, 215, 215);
+}
+
+h1 {
+    color: red;
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+h5,h3 {
+    color: red;
+}
+
+h4,h2{
+    color: aliceblue;
+}
+
+.navbar-brand {
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-size: 250%;
+    margin-left: 4rem;
+    color: red;
+
+}
+
+.navbar-toggler {
+    margin-right: 1rem;
+}
+
+.navbar-collapse {
+    margin-left: 4rem;
+}
+
+.topPage {
+    padding: 2rem;
+    color: aliceblue;
+}
+
+.imgDetail {
+    padding-top: 3rem;
+}
+
+.btn {
+    background-color: red;
+    color: aliceblue;
+    border-radius: 0;
+}
+.btn1{
+    
+    background-color: red;
+    color: aliceblue;
+    border-radius: 0;
+    padding: 0.5rem 1rem;
+}
+
+.btn2 {
+    background-color: rgb(28, 32, 32);
+    text-align: left;
+    padding: 2rem;
+    margin-left: 1rem;
+    width: 15rem;
+}
+
+.btn2:hover {
+    background-color: rgb(31, 0, 0);
+    border-color: red;
+}
+
+.details {
+    text-align: center;
+    margin: auto;
+}
+
+.smallImages {
+    padding: 0 0 1rem;
+}
+
+.FirstAtag {
+    text-decoration: none;
+    color: red;
+}
+
+.FirstAtag:hover {
+    color: aliceblue;
+}
+
+.secondPage {
+    padding: 3rem;
+    text-align: center;
+    margin-left: 20%;
+}
+
+.bigHeading{
+    position: relative;
+    top: 5rem;
+}
+
+.tableDaata {
+    padding: 2rem;
+    border: 1rem solid black;
+    background-color: rgb(28, 32, 32);
+}
+.featureSection{
+    text-align:left;
+    padding: 1rem;
+}
+.featureItems{
+    background-color: rgb(28, 32, 32);
+    text-align: center;
+}
+.lastPage{
+    padding: 5rem;
+    background-color:  rgb(28, 32, 32);
+}
+.buttonLast{
+    padding: .5rem 1rem;
+    border: 1px solid aliceblue;
+    text-align: center;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+}
+.buttonLast:hover{
+    background-color:black;
+}
+.last{
+    padding: 3rem;
+    color: aliceblue;
+}
+.featureImage{
+    border: 2px solid black;
+    margin: 3rem 1rem;
+    width: 15rem;
+    height: 10rem;
+
+
+}
+.footer{
+    background-color: black;
+    padding: 5rem;
+    
+    text-align: center;
+    margin: auto;
+}
+.socialLinks{
+    padding: 1rem;
+    text-decoration: none;
+}
+.p{
+    margin-top: 8rem;
+    font-size:10px;
+}
+.p3{
+    background-color:rgb(28, 32, 32) ;
+    padding: 5rem 5rem 3rem;
+    text-align: right;
+    font-size: 8px;
+}
+.p2{
+    text-align: right;
+}
